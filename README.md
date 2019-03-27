@@ -1,2 +1,4 @@
 # best-repo-ever
-Test readme 98
+<<<<<<< HEAD
+Test readme 2 98 
+
